@@ -9,4 +9,5 @@ body:hover{
     border : 5px solid black;
     text-decoration: none;
     color: white;
+    text-shadow: 0 1px;
 }
