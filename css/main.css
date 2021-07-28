@@ -14,3 +14,8 @@ body:hover {
     color-interpolation-filters: auto;
     text-shadow: 0 1px;
 }
+
+h1 {
+    color: rgb(64, 0, 138);
+    font-family: 'Lucida Sans';
+}
