@@ -6,4 +6,5 @@ body {
 
 body:hover{
     border : 5px solid black;
+    text-decoration: none;
 }
