@@ -1,12 +1,12 @@
 body {
     text-align: center;
-    color: blue;
-    font-size:  14px;
+    color: rgb(14, 179, 36);
+    font-size: 50px;
     background-color: red;
 }
 
-body:hover{
-    border : 5px solid black;
+body:hover {
+    border: 5px solid black;
     text-decoration: none;
     color: white;
     text-shadow: 0 1px;
