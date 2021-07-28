@@ -3,3 +3,7 @@ body {
     color: blue;
     font-size:  14px;
 }
+
+body:hover{
+    border : 5px solid black;
+}
